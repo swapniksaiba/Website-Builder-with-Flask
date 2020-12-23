@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="T:\Nov\Python-Series\04-Website-Builder-with-Flask\virtual"
+VIRTUAL_ENV="T:\Nov\Python-Series\04-Website-Builder-with-Flask\env\virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
